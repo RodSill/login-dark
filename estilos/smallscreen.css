@@ -1,0 +1,24 @@
+.mainlog{
+    flex-direction: column;
+}
+.leftlog > h1{
+    display: none;    
+}
+
+.leftlog{
+    width: 100%;
+    height: auto;
+}
+
+.leftlog img{
+    width: 50vw;
+}
+
+.rightlog{
+    width: 100%;
+    height: auto;
+}
+
+.cardlog {
+    width: 90%;
+}
